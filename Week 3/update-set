@@ -1,0 +1,4 @@
+set_1 = {1,2}
+set_2 = {3,4}
+set_1.update(set_2)
+print("update:", set_1)

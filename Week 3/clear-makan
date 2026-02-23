@@ -1,0 +1,3 @@
+set_a = {"bakso", "tahu","siomay","batagor"}
+set_a.clear()
+print("hasil clear", set_a)
